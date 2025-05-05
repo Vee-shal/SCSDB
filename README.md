@@ -45,7 +45,7 @@ To run the project locally:
 4. Run the application:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 The application will open in your browser at `http://localhost:3000`.
@@ -61,14 +61,6 @@ This project uses the **TMDB API** to fetch data. You'll need to create a free a
     REACT_APP_TMDB_API_KEY=your-api-key
     ```
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add feature'`).
-5. Push to your branch (`git push origin feature-name`).
-6. Create a new Pull Request.
 
 ## License
 
