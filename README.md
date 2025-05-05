@@ -27,7 +27,7 @@ To run the project locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/SCSDB.git
+    git clone git@github.com:Vee-shal/SCSDB.git
     ```
 
 2. Navigate to the project directory:
